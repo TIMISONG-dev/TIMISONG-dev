@@ -1,15 +1,12 @@
-TIMISONG, Dmitry 18y, Java programmer, Rock musical
-TG Blog: t.me/timisong_channel
-TG MW: t.me/uniconteam_magicworld
+package uniconteam.developer
 
-          Uu     uU  NNNN    NN  II
-          UU     UU  NN NN   NN  II
-          UU     UU  NN  NN  NN  II
-          UU     UU  NN   NN NN  II
-           UUUUUUU   NN     NN   II
+import android.developer;
+import rhythm.guitarist;
 
-         CCCCCC   OOOOOO   NNNN    NN
-         CC       OO  OO   NN NN   NN
-         CC       OO  OO   NN  NN  NN
-         CC       OO  OO   NN   NN NN
-         CCCCCC   OOOOOO   NN     NN
+public class DeveloperActivity extends Activity {
+    name.setText("TIMISONG);
+    age.setText("18y");
+    tgrockband.setText("t.me/the_unicon");
+    tgchannel.setText("t.me/timisong_channel);
+}
+    
