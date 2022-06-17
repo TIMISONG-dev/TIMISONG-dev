@@ -3,7 +3,7 @@ package uniconteam.developer
 import android.developer;
 import rhythm.guitarist;
 
-public class DeveloperActivity extends Activity {
+public class DeveloperActivity: TIMISONG {
     name.setText("TIMISONG);
     age.setText("18y");
     tgrockband.setText("t.me/the_unicon");
