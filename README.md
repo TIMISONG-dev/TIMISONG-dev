@@ -4,7 +4,7 @@ import android.developer;
 import rhythm.guitarist;                
 import android.designer;
 
-public class DeveloperActivity: TIMISONG {           
+public class DeveloperActivity{           
    
     name.setText("TIMISONG);
     age.setText("18y");                 
