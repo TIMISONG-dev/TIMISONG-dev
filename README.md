@@ -1,14 +1,20 @@
+```java
 package uniconteam.developer
 
-import android.developer;               
-import rhythm.guitarist;                
-import android.designer;
+import android.os.Bundle;
+import android.Developer;               
+import rhythm.Guitarist;                
+import android.Designer;
 
-public class DeveloperActivity{           
-   
-    name.setText("TIMISONG");
-    age.setText("19y");                 
-    tgrockband.setText("t.me/the_unicon");
-    tgchannel.setText("t.me/timisong_channel");     
+public class Timisong extends Developer {
+    @Override
+    Bundle onBuild() {
+      Bundle bundle = new Bundle();
+      bundle.putString("name", "Dima");
+      bundle.putInt("age", 19);
+      bundle.putString("rockband", "t.me/the_unicon");
+      bundle.putString("channel", "t.me/timisong_channel");
+      return bundle
+    }   
 }
-    
+```
