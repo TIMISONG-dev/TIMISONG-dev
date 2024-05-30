@@ -15,7 +15,7 @@ public class Timisong extends Developer {
     Bundle onBuild() {
       Bundle bundle = new Bundle();
       bundle.putString("name", "Dima");
-      bundle.putInt("age", 19);
+      bundle.putInt("age", 20);
       bundle.putString("rockband", "t.me/the_unicon");
       bundle.putString("channel", "t.me/timisong_channel");
       bundle.putString("game_channel", "t.me/uniconteam_magicworld");  
