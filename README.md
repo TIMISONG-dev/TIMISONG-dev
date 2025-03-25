@@ -4,38 +4,8 @@
 
 ```kotlin
 package timisongdev.timisong
-
-import android.os.Bundle
-import android.developer               
-import rhythm.guitarist               
-import android.designer
-import kernel.developer
-import developer.java*
-import developer.c*
-import developer.kotlin*
-import developer.flutter*
-import developer.kotlin.compose*
-import developer.kotlin.multiplatform*
-import android.annotation.SuppressLint
-import android.content.Intent
-import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.compose.setContent
-import androidx.activity.enableEdgeToEdge
-import androidx.compose.foundation.clickable
-import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.layout.Arrangement
-import androidx.compose.material3.*
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.*
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.style.TextDecoration
-import androidx.compose.ui.tooling.preview.Preview
-import androidx.compose.ui.unit.*
-import timisongdev.timisong.ui.theme.TIMISONGTheme
-import androidx.core.net.toUri
+        
+import ...
 
 class MainActivity : ComponentActivity() {
     @SuppressLint("UnusedMaterial3ScaffoldPaddingParameter")
